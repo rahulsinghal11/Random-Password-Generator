@@ -9,11 +9,6 @@
     "github",
     "generator"
   ],
-  "author": {
-    "name": "Kashyap Merai",
-    "url": "http://kamerk22.github.io"
-  },
-  "license": "MIT",
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
@@ -21,9 +16,9 @@
     "terminal.css": "^0.6.5"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   },
-  "homepage": "http://kamerk22.github.io/random-password-generator",
+  "homepage": "https://rahulsinghal11.github.io/random-password-generator",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
