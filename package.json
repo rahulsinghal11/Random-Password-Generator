@@ -18,7 +18,7 @@
   "devDependencies": {
     "gh-pages": "^2.2.0"
   },
-  "homepage": "https://rahulsinghal11.github.io/random-password-generator/",
+  "homepage": "./",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
