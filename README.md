@@ -1,6 +1,6 @@
-# Random Password Generator
+# LoginWise: Random Password Generator
 
-https://random-password-generator-app-project.netlify.app/
+https://loginwise-app.netlify.app/
 
 Loginwise helps to generate a secure random password with 8 - 40 length. Also, supports a Light and Dark Theme. It helps generate strong and complex passwords based on randomized functions and user's input. Also helps prevent passwords from being hacked by social engineering, brute force or dictionary attack method. 
 
